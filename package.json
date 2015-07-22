@@ -1,0 +1,15 @@
+{
+  "name": "azure-flocker-template",
+  "version": "1.0.0",
+  "description": "A template for installing flocker on a linux cluster",
+  "main": "gentemplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^0.9.0",
+    "rsvp": "^3.0.18"
+  }
+}

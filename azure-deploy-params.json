@@ -1,0 +1,32 @@
+{
+  "newStorageAccountName": {
+    "value": "sedouardfleet87"
+  },
+  "publicDomainName": {
+    "value": "sedouardfleet2"
+  },
+  "vmSize": {
+    "value": "Standard_A3"
+  },
+  "adminUserName": {
+    "value": "core"
+  },
+  "numberOfNodes": {
+    "value": 2
+  },
+  "imagePublisher": {
+    "value": "Canonical"
+  },
+  "imageOffer": {
+    "value": "UbuntuServer"
+  },
+  "osVersion": {
+    "value": "14.04.2-LTS"
+  },
+  "customData": {
+    "value": "I2Nsb3VkLWNvbmZpZwoKYXB0X3VwZ3JhZGU6IHRydWUKCnJ1bmNtZDoKICAgIC0gWydhcHQtZ2V0JywgJy15JywgJ2luc3RhbGwnLCAnYXB0LXRyYW5zcG9ydC1odHRwcycsICdzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiddCiAgICAtIFsnYWRkLWFwdC1yZXBvc2l0b3J5JywgJy15JywgJ3BwYTpqYW1lcy1wYWdlL2RvY2tlciddCiAgICAtIFsnYWRkLWFwdC1yZXBvc2l0b3J5JywgJy15JywgJ2RlYicsICJodHRwczovL2NsdXN0ZXJocS1hcmNoaXZlLnMzLmFtYXpvbmF3cy5jb20vdWJ1bnR1LyQobHNiX3JlbGVhc2UgLS1yZWxlYXNlIC0tc2hvcnQpL1wkKEFSQ0gpIC8iXQogICAgLSBbJ2FwdC1nZXQnLCAndXBkYXRlJ10KICAgIC0gWydhcHQtZ2V0JywgJy15JywgJy0tZm9yY2UteWVzJywgJ2luc3RhbGwnLCAnY2x1c3RlcmhxLWZsb2NrZXItbm9kZSdd"
+  },
+  "sshKeyData": {
+    "value": "MIIDPjCCAiYCCQD6OKOxSuDlGzANBgkqhkiG9w0BAQsFADBhMRYwFAYDVQQKDA1Tb21lIENvbXBhbnkyMRYwFAYDVQQHDA1TYW4gRnJhbmNpc2NvMQswCQYDVQQIDAJDQTELMAkGA1UEBhMCVVMxFTATBgNVBAMMDHd3dy50ZXN0LmNvbTAeFw0xNTA3MjEyMjAzNDJaFw0xNjA3MjAyMjAzNDJaMGExFjAUBgNVBAoMDVNvbWUgQ29tcGFueTIxFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xCzAJBgNVBAgMAkNBMQswCQYDVQQGEwJVUzEVMBMGA1UEAwwMd3d3LnRlc3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOiB2cpEyfHHKrT1diPcCbBA9F0zJ0KJ+ME+GyU75CESnzWf4NdkKTzbIOL8FjvFyE8yPgiyLOyJKH4+XLtXfXKkPTccpZjLut/4Fn15Z4gbjqAeBZkf/ifCDMsB/Mw4VFh+RsOFx1X6SHTVUdC5gOyd3PNOyU3ZX0+6en6iRLnVBD3FJ+mY3sKCU5KkgCr64jRSmbLKoHN/V+GjRZna8pm2M+almFdWUWt7prgbZG+UdAj11408XGSoecgZEmrk1V89Y9H3+YsCc44oDD9MVxdtYLfGkza+gJEIMIpEvsrOyZgRndOltmk5q5DypWMuYFAu4+St1udbOdLwioIsBwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQBXU+ZiAdEDyxRW+RpAncHh0yI5dRhb1dSQkPAIi9ONPoFDDViNIRC7YrDYSZ9+2jOjzBBh0W4JNQJ/fUyX2Zj6xFalnx5ml5tl44LvNIhByKVXmV34wI1VA4KXfNNdL1jOFHAQ9IGKBZTRb+qyf0Yh5uAtaixsuxgjtpDwkkXeARhRIM3d1awibvNKrIzyBbvxe2mR19+BLzkudeEWesBHCjJ0EPnw0a6Lho1TbZyEpZPNKx6CqGCJCXFujk3D8swk/3b+MI8mHPYrgxbj86R012+s9dg9/zNsnJzst4LG6QgQOdbmn63UtBnyB9WjjjEF1MPSj4gr6vMDdgaVddus"
+  }
+}

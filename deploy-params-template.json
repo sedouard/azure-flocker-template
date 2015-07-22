@@ -1,0 +1,26 @@
+{
+  "newStorageAccountName": {
+    "value": "sedouardfleet87"
+  },
+  "publicDomainName": {
+    "value": "sedouardfleet2"
+  },
+  "vmSize": {
+    "value": "Standard_A3"
+  },
+  "adminUserName": {
+    "value": "core"
+  },
+  "numberOfNodes": {
+    "value": 2
+  },
+  "imagePublisher": {
+    "value": "Canonical"
+  },
+  "imageOffer": {
+    "value": "UbuntuServer"
+  },
+  "osVersion": {
+    "value": "14.04.2-LTS"
+  }
+}
